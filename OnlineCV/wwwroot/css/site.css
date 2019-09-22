@@ -17,6 +17,11 @@ a, a:hover, a:focus {
     background-color: white;
 }
 
+.navbar .navbar-toggler {
+    width: auto;
+    height: auto;
+}
+
 .bg-lasse {
     background-color: #003361 !important;
     box-shadow: 0px 2px 10px 1px rgba(0,0,0,1);
