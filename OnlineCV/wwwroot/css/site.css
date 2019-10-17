@@ -46,7 +46,7 @@ a, a:hover, a:focus {
     padding-top: 33%;
 }
 
-#professional-experience h4 {
+.list-group-item > h4 {
     margin-top: 0;
 }
 
